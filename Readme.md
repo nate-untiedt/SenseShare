@@ -7,6 +7,7 @@ SenseShare is a simple script and folder framework that expedites sharing of Qli
 * Automatic detection of user's Qlik Sense folder locations
 
 ## Use
+
 ### To Create a SenseShare package:
 1. Copy your files into the appropriate directories
     * Copy the .qvf(s) you want to share into the **App** folder
@@ -22,3 +23,10 @@ SenseShare is a simple script and folder framework that expedites sharing of Qli
 ###To Install a SenseShare package:
 1. Unzip the contents of the SenseShare package (*.zip) file.
 2. In windows explorer, double click **SenseShare.bat**.
+
+### SenseShare.bat package creation helper flags
+Use one of the following flags when running SenseShare.bat to easily open the folders that you need to pull your files from
+
+* /a - Opens the current user's Qlik Sense **Apps** folder
+* /c - Opens the current user's Qlik Sense **Content\Default** folder
+* /e - Opens the current user's Qlik Sense **Extensions** folder
