@@ -18,5 +18,5 @@ Echo Copying Extension file(s) to %qsContentPath%\%appname%\...
 xCOPY ".\Extensions\*" "%qsExtensionsPath%\" /e /i
 
 Echo Installation complete!
-
+set /p WaitVar=Hit ENTER to continue...
 @echo on
