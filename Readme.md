@@ -12,7 +12,7 @@ SenseShare is a simple script and folder framework that expedites sharing of Qli
     * Copy the .qvf(s) you want to share into the **App** folder
     * Copy the corresponding **Content** files/folders into the **Content** folder
     * Copy the extensions that are used in the .qvf files into the **Extensions** folder
-2. Add all of the folders and the SenseShare.bat to a zip files.  Your final zip should look like this
+2. Add all of the folders and the SenseShare.bat to a zip file.  Your final zip should look like this
     * Apps
     * Content
     * Extensions
