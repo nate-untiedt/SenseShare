@@ -1,7 +1,7 @@
 # SenseShare
 
 ## About
-SenseShare is a simple script and folder framework that expedites sharing of Qlik Sense applications by providing:
+SenseShare is a simple script and folder framework that expedites sharing of Qlik Sense applications and extensions by providing:
 * A single zip file with an intuitive folder structure to send all necessary files allowing your app to be more portable
 * Single click install into the installing user's Qlik Sense Desktop.
 * Automatic detection of user's Qlik Sense folder locations
